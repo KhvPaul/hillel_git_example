@@ -3,7 +3,9 @@ def foo_1(a: int):
 
 
 def foo_2(b: int):
-    pass
+    aa = 1
+    b = 2
+    c = 3
 
 
 def main():
